@@ -3,7 +3,7 @@
 
 
 ### Olá, eu sou o Wagner Silva 
-<hr>
+
 
 
 ![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical)
