@@ -3,7 +3,7 @@
 
 
 Tenho 24 anos, sou graduado em análise e desenvolvimento de sistemas, apaixonado pela programação e
-sempre buscando evoluir atualmente estudando react native. 
+sempre buscando evoluir atualmente estudando React e NodeJS
 
 ![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical)
 
