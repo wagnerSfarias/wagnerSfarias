@@ -7,7 +7,7 @@ sempre buscando evoluir atualmente estudando React e NodeJS
 
 <!-- ![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical&include_all_commits=true) -->
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical&count_private=true&include_all_commits=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical&count_private=true&include_all_commits=true
 </div>
 
 ### Tecnologias
