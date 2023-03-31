@@ -5,10 +5,9 @@
 Tenho 25 anos, sou graduado em análise e desenvolvimento de sistemas, apaixonado pela programação e
 sempre buscando evoluir atualmente estudando React e NodeJS
 
-<!-- ![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical&include_all_commits=true) -->
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical&count_private=true&include_all_commits=true
-</div>
+
+![Wagner Status](https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons=true&theme=radical&include_all_commits=true)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=wagnerSfarias&show_icons="true"&theme=radical&count_private="true"&include_all_commits="true"/> -->
 
 ### Tecnologias
 <div style="display: inline_block"><br/>
