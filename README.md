@@ -1,8 +1,9 @@
 
 <h1 align="center">Olá, eu sou o Wagner Silva 👋</h1>
 
- - 🏠 Tenho 26 anos, moro na cidade de São Paulo.
+ - 🏠 Tenho 27 anos, moro na cidade de São Paulo.
  - 📚 Graduado em Análise e Desenvolvimento de Sistemas
+ - Desenvolvedor Front-end na empresa ComHub
  - 👨‍💻 Em constante evolução, aprimorando minhas habilidades e desenvolvendo projetos incríveis.
  - 💙 Apaixonado por programação.
 
